@@ -12,9 +12,7 @@ AI Developer · Python
 
 ## 關於我
 
-我主要使用 Python 打造 AI 相關產品。
-
-我喜歡簡單、穩定、實用的系統，也喜歡安靜地把產品做出來。
+你最新的照片，也是最老的照片。
 
 ## 目前專注
 
@@ -28,12 +26,6 @@ Product Building
 
 **Dingdongxi**  
 [dingdongxi.com](https://dingdongxi.com)
-
-## GitHub
-
-這個 Profile README 會盡量保持簡潔、穩定，不放容易載入失敗的第三方動態統計圖片。
-
-下方的 pinned repositories 和 contribution activity 已經可以展示我的 GitHub 狀態。
 
 ---
 
