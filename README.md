@@ -4,7 +4,7 @@
 
 AI Developer · Python
 
-正在打造 [dingdongxi.com](https://dingdongxi.com)
+[dingdongxi.com](https://dingdongxi.com)
 
 </div>
 
@@ -14,23 +14,14 @@ AI Developer · Python
 
 你最新的照片，也是最老的照片。
 
-## 目前專注
+## 專注
 
 ```txt
 AI
 Python
-Product Building
+Product
 ```
 
-## 主要專案
+## 專案
 
-**Dingdongxi**  
-[dingdongxi.com](https://dingdongxi.com)
-
----
-
-<div align="center">
-
-安靜打造 · 簡單發布
-
-</div>
+[Dingdongxi](https://dingdongxi.com)
