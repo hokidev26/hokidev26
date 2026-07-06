@@ -4,7 +4,7 @@
 
 AI Developer · Python
 
-[dingdongxi.com](https://dingdongxi.com)
+[dingdongxi.com][https://dingdongxi.com]
 
 </div>
 
@@ -24,5 +24,5 @@ Product
 
 ## 專案
 
-[dingdongxi.com](https://dingdongxi.com)
+[dingdongxi.com][https://dingdongxi.com]
 
