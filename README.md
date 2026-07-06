@@ -26,6 +26,3 @@ Product
 
 [dingdongxi.com](https://dingdongxi.com)
 
-<p align="center">
-  <img src="./charmander.svg" width="220" alt="小火龍" />
-</p>
