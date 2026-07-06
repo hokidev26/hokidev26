@@ -26,25 +26,6 @@ Product
 
 [dingdongxi.com](https://dingdongxi.com)
 
-<div align="center">
-
-<pre>
-        _.--""`-.
-      .'          `.
-     /   _      _   \
-    |   (o)    (o)   |
-    |       __        |
-     \     `--'      /
-      `._        _.'
-         `-.__.-'
-        /|  /\  |\
-       /_| /  \ |_\
-         /_/  \_\
-            \
-             `-.
-               )\_
-             _/   `.
-            (___/\__)
-</pre>
-
-</div>
+<p align="center">
+  <img src="./charmander.svg" width="220" alt="小火龍" />
+</p>
