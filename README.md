@@ -31,13 +31,9 @@ Product Building
 
 ## GitHub
 
-<div align="center">
+I keep this profile lightweight and stable, without third-party dynamic stats images that may fail to load.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hokidev26&show_icons=true&hide_title=true&hide_border=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hokidev26&layout=compact&hide_border=true&theme=transparent)
-
-</div>
+GitHub already shows my pinned repositories and contribution activity below.
 
 ---
 
