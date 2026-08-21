@@ -12,14 +12,12 @@ AI Developer · Python
 
 ## cc
 
-你最新的照片，也是最老的照片。
+ZZ
 
 ## zz
 
 ```txt
-AI
-Python
-Product
+
 ```
 
 ## xx
